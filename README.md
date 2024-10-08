@@ -1,5 +1,4 @@
 # Experiment-14
-Sure! Here’s a detailed explanation of hierarchical, multiple, and multilevel inheritance, along with algorithms and conclusions for each type.
 
 ### 1. Hierarchical Inheritance
 
